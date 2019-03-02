@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "dev": "pslove-dev",
+    "prod": "pslove-usa"
+  }
+}
